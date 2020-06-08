@@ -1,7 +1,7 @@
 package common.endUserSteps;
 
-import net.thucydides.core.annotations.Step;
 import common.pageObjects.GooglePage;
+import net.thucydides.core.annotations.Step;
 
 public class EndUserActions {
     GooglePage googlePage;
